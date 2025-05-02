@@ -9,26 +9,29 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
+    Bad
       ```
-      Your answer...
+      https://public.tableau.com/app/profile/wendy.shijia/viz/my2023review/my2023reviewhorizontal
 
-
-
-
-
-
+      The purpose of the visualization is very personal that makes it very hard to link between the visuals and the context of the work. The use of odd shapes for visualization, keep one distracted(not Cognitive-friendly). Lack of stand-alone interpretability. Lack of source information.
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
-
-
-
-
-
+      It definetly could be improved by first providig more context. giving more explanation that what the purpose of each symbol is and how different symbols(legends) are different and independant.
 
       
+      ```
+    Good
+      ```
+      https://public.tableau.com/app/profile/asha4359/viz/LiteracyRates_17243394670400/WorldLiteracyRatesOverview
+
+      The visualization matches well with the goal, and the presentation of data in this is simple and clear. The source of the data is explicitly mentioned. It is welll designed and eye friendly regarding color contrast and font size, and ... . the tone completely matches the neutral and context of the data. Very well Stand-alone Interpretability as the data is understandable without extra explanatio. As mentioend, Aestheticly very well and engaing.
+      ```
+    - How could this data visualization have been improved?  
+      ```
+      The visualization is very well made so I cannot offer much. However, adding different colors for different genders, and differen colors for different coninents, use of line chart instead of just text, using a thicker note, would make it better
+
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
