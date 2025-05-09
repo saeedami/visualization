@@ -7,23 +7,24 @@
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
-    > What software did you use to create your data visualization?
+    > What software did you use to create your data visualization? python and excel
 
     > Who is your intended audience? 
-    
+    python: normal people going to parks- excel: app developers
     > What information or message are you trying to convey with your visualization? 
-    
+    for both softwares: the necessary information about parks washroom facilities and access to them.
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
-    
+    python: I put the data on a map of Toronto to give more visual perception to the data - excel: due to limits. only aspect I considered was providing clean and useful data
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    
+    Python: The code written in python language is written in a way the reproducibility is easily accessible. - Excel: due to limits, or my lack of knowledge about excel, it is not reproduceable.
     > How did you ensure that your data visualization is accessible?  
-    
+    python: by providing an html version of the visualization. - Excel: Providing a PDF version.
     > Who are the individuals and communities who might be impacted by your visualization?  
-    
+    Kids, families, hikers, or in general every body that uses parks.
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    
+    for both softwares: Just by considering which features will contribute to information about washroom accessibility.
     > What ‘underwater labour’ contributed to your final data visualization product?
+    Mostly, data cleaning, and data feature selection.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
